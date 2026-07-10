@@ -14,3 +14,9 @@ Archivos incluidos:
 
 Para publicar: subir toda la carpeta al hosting manteniendo la estructura.
 Formulario: actualmente visual; conectar con CRM, WhatsApp, correo o Google Sheets según necesidad.
+
+
+AJUSTE HEADER:
+- Menú principal simplificado: Inicio, Nosotros, Soluciones, Aliados, Contacto.
+- Soluciones contiene submenú: Celularesfiao, Carrier, Distribuidora.
+- Funciona en desktop con hover y en móvil con click.
